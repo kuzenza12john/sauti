@@ -1,0 +1,55 @@
+body{
+display: flex;
+background-color: #766766ff;
+fornt-size: 12;
+}
+.logo{
+background-color: blue;
+}
+.logo h1{
+color: pink;
+font-size: 25px;
+text-align: center;
+margin-top: 0px;
+}
+.logo hr{
+color: #dc143c;
+font-size: 22px;
+text-align: center;
+margin-top: 0px;
+background-color: #ff0000;
+}
+.img1{
+width: 200px;
+height: 200px;
+border-radius: 100%;
+left: 990px;
+}
+
+.btn a{
+color: 000800;
+text-align: center;
+text-decoration: none;
+font-size: 22px;
+transform: scalex(0);
+transition: transform: 5%;
+}
+.btn a:hover{
+    color: orangered;
+transform: scalex(1);
+}
+.bold{
+color: #c0c0c0;
+align: center:
+margn-top: 1px;
+font-size: 22px;
+}
+.bold button{
+button-align: center;
+background-color: #ee82ff;
+}
+.btt a{
+backgroud-color: #808080;
+font-size: 42px;
+
+}
